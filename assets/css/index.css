@@ -79,7 +79,9 @@ header {
 
   .name-wrapper {
     text-align: center;
-    padding-bottom: 2rem; }
+    padding-bottom: 2rem;
+    color: #495057;
+    background-color: #fff; }
 
   .contact {
     padding-top: 1rem;
